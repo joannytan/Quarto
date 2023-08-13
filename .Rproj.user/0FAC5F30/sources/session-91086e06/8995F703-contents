@@ -1,5 +1,14 @@
 ---
 title: "Joan Tan"
+image: joan.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  links: 
+    - text: LinkedIn
+      href: www.linkedin.com/in/joan-tan-532a6765
+    - text: Email
+      href: joan.tan@monash.edu
 ---
 
 This is a Quarto website.
