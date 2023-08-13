@@ -3,7 +3,7 @@
     "path": "~/Documents/Joan Website/Quarto/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1532810851",
     "contents": "",
     "dirty": false,
     "created": 1691903362319.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "467:96.80000305175781",
+        "rmdVisualModeLocation": "139:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1691904191,
+    "lastKnownWriteTime": 1691907837,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1691904191229,
+    "last_content_update": 1691907837960,
     "read_only": false,
     "read_only_alternatives": []
 }
