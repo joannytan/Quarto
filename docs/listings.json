@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/2023-08-13-R/index.html"
+    ]
+  },
+  {
+    "listing": "/blog2.html",
+    "items": [
+      "/post2/2023-08-13-my-blog-post/index.html"
+    ]
+  }
+]

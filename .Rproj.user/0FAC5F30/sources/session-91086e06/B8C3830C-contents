@@ -1,0 +1,11 @@
+---
+title: "R"
+author:
+ - name: Joan Tan
+date: 08-13-2023
+categories: [R, teaching] # self-defined categories
+image: exam.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+testing

@@ -1,0 +1,8 @@
+---
+title: "Baking"
+listing: 
+  contents: post2
+  type: grid
+  sort: "date desc"
+  categories: true
+---

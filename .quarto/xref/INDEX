@@ -4,5 +4,20 @@
   },
   "about.qmd": {
     "about.html": "3a80e3bf"
+  },
+  "blog.qmd": {
+    "blog.html": "3ea7ee74"
+  },
+  "posts/2023-08-13-my-blog-post/index.qmd": {
+    "index.html": "1d677e5d"
+  },
+  "posts/2023-08-13-R/index.qmd": {
+    "index.html": "a32918a2"
+  },
+  "post2/2023-08-13-my-blog-post/index.qmd": {
+    "index.html": "afe7f786"
+  },
+  "blog2.qmd": {
+    "blog2.html": "ccb29d23"
   }
 }

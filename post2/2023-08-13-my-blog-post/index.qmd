@@ -1,0 +1,12 @@
+---
+title: "Baking"
+author:
+ - name: Joan Tan
+date: 08-13-2023
+categories: [cake] # self-defined categories
+url: https://joannytan.github.io/Quarto/posts/2022-10-24-quarto-blogs/
+image: cake.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+testing

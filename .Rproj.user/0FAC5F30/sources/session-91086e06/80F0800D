@@ -1,7 +1,7 @@
 {
     "id": "80F0800D",
-    "path": "~/Documents/Joan Website/Quarto/about.qmd",
-    "project_path": "about.qmd",
+    "path": "~/Documents/Joan Website/Quarto/blog.qmd",
+    "project_path": "blog.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "24:0"
+        "rmdVisualModeLocation": "113:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1691893690,
+    "lastKnownWriteTime": 1691903417,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1691893690,
+    "last_content_update": 1691903417926,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Joan Tan",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, I am Joan, a passionate data analyst who is dedicated to exploring the world of data and discovering insights that can drive positive change. I have always been fascinated by the power of data to tell stories and reveal patterns. I loves nothing more than diving into complex data sets and using the skill in programming, statistics, and machine learning to extract meaningful insights. I hope to inspire others to embrace the power of data and use it to make a difference to your career.\nWhen I aren’t busy exploring the world of data science, I enjjoy spending my free time pursuing other passions. I love Baking! I loves nothing more than experimenting with new recipes and sharing my creations with friends and family. I also enjoy reading productivity books, which I find inspiring and motivating. I believes that by learning from the experiences of others and adopting new strategies for managing time and staying focused, I can be more effective in all aspects of my life. Whether I am in the kitchen or curies up with a good book, I always seeking new ways to challenge myself and grow as a person."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,40 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Data Science",
+    "section": "",
+    "text": "R\n\n\n\nR\n\n\nteaching\n\n\n\n\n\n\n\nJoan Tan\n\n\nAug 13, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023-08-13-R/index.html",
+    "href": "posts/2023-08-13-R/index.html",
+    "title": "R",
+    "section": "",
+    "text": "testing"
+  },
+  {
+    "objectID": "posts/2023-08-13-my-blog-post/index.html",
+    "href": "posts/2023-08-13-my-blog-post/index.html",
+    "title": "Baking",
+    "section": "",
+    "text": "testing"
+  },
+  {
+    "objectID": "post2/2023-08-13-my-blog-post/index.html",
+    "href": "post2/2023-08-13-my-blog-post/index.html",
+    "title": "Baking",
+    "section": "",
+    "text": "testing"
+  },
+  {
+    "objectID": "blog2.html",
+    "href": "blog2.html",
+    "title": "Baking",
+    "section": "",
+    "text": "Baking\n\n\n\ncake\n\n\n\n\n\n\n\nJoan Tan\n\n\nAug 13, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
