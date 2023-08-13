@@ -7,7 +7,7 @@ about:
   links: 
     - icon: linkedIn
       text: LinkedIn
-      href: https://www.linkedin.com/in/joan-tan-532a6765
+      href: https://www.linkedin.com/in/joan-tan-532a6765/
     - icon: envelope
       text: Email
       href: mailto:joan.tan@monash.edu
