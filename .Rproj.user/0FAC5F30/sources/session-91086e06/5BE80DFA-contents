@@ -5,9 +5,11 @@ about:
   template: jolla
   image-shape: round
   links: 
-    - text: LinkedIn
+    - icon: linkedIn
+      text: LinkedIn
       href: https://www.linkedin.com/in/joan-tan-532a6765
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:joan.tan@monash.edu
 ---
 
