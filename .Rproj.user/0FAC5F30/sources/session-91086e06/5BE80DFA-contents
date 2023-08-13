@@ -5,7 +5,7 @@ about:
   template: jolla
   image-shape: round
   links: 
-    - icon: linkedIn
+    - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/joan-tan-532a6765/
     - icon: envelope
