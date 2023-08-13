@@ -14,8 +14,7 @@ website:
 
 format:
   html:
-    theme: 
-      - green_theme.scss
+    theme: darkly
     #css: styles.css
     toc: true
 
