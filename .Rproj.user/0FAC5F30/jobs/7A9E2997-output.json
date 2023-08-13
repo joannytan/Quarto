@@ -21,3 +21,8 @@
 [1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Joan Tan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \n\u001B[1mmetadata\u001B[22m\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: vapor\n  title: Joan Tan\n  image: joan.jpeg\n  about:\n    template: jolla\n    image-shape: round\n    links:\n      - text: LinkedIn\n        href: www.linkedin.com/in/joan-tan-532a6765\n      - text: Email\n        href: joan.tan@monash.edu\n  \n"]
 [1,"Output created: docs/index.html\n\n\u001B[32mWatching files for changes\u001B[39m\n"]
 [1,"\u001B[32mGET: /\u001B[39m\n"]
+[1,"\u001B[1mpandoc \u001B[22m\n  to: html\n  output-file: index.html\n  standalone: true\n  title-prefix: Joan Tan\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \n\u001B[1mmetadata\u001B[22m\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme: vapor\n  title: Joan Tan\n  image: joan.jpeg\n  about:\n    template: jolla\n    image-shape: round\n    links:\n      - text: LinkedIn\n        href: www.linkedin.com/in/joan-tan-532a6765\n      - text: Email\n        href: joan.tan@monash.edu\n  \n"]
+[1,"Output created: docs/index.html\n\n\u001B[32mWatching files for changes\u001B[39m\n"]
+[1,"\u001B[32mGET: /\u001B[39m\n"]
+[1,"\u001B[32mGET: /blog.html\u001B[39m\n"]
+[1,"\u001B[32mGET: /blog2.html\u001B[39m\n"]
